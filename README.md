@@ -4,7 +4,7 @@ Spring data Redis (pub/sub)
 
 ## Description
 
-This are two projects identify how to use redisDB (pub/sub) with spring data.
+This are two projects identify how to use redisDB (pub/sub) with spring boot.
 
 ## Getting Started
 
