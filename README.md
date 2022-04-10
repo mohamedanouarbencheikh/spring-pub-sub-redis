@@ -2,6 +2,8 @@
 
 Spring data Redis (pub/sub)
 
+![Product Gif](https://github.com/mohamedanouarbencheikh/spring-pub-sub-redis/blob/master/spring-pub-sub-redis.gif)
+
 ## Description
 
 This are two projects identify how to use redisDB (pub/sub) with spring boot.
